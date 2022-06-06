@@ -32,4 +32,4 @@ It supports single player as well as multi-player games.
 This was first project which deals with either React.js or socket programming.
 A fun weekend project.
 
-### React.js, Node.js, Socket.io
+#### Built using React.js, Node.js, Socket.io
