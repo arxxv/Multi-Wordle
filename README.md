@@ -29,9 +29,7 @@ It supports single player as well as multi-player games.
 <img src="https://github.com/arxxv/Multi-Wordle/blob/main/screenshots/multi-player-wrong.jpg" height="500px"><img/>
 <img src="https://github.com/arxxv/Multi-Wordle/blob/main/screenshots/single-player-wrong-ii.jpg" height="500px"><img/>
 
-It was a fun weekend project. And was my first ever project built with React and first project which deals with sockets.
+This was first project which deals with either React.js or socket programming.
+A fun weekend project.
 
 ### React.js, Node.js, Socket.io
-
-
-
