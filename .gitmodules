@@ -1,0 +1,6 @@
+[submodule "multiwordle-backend"]
+	path = multiwordle-backend
+	url = https://github.com/arxxv/multiwordle-backend.git
+[submodule "multiwordle-frontend"]
+	path = multiwordle-frontend
+	url = https://github.com/arxxv/multiwordle-frontend.git
