@@ -1,7 +1,10 @@
 # Multi-Wordle
 
-Now play Wordle duets with your friends.
-It supports single player as well as multi-player games.
+Multi-Wordle is a captivating and engaging project that brings the beloved game of Wordle to life in an exciting and competitive manner. This innovative application not only allows players to enjoy the classic single-player experience but also introduces a thrilling two-player mode where individuals can challenge each other in real-time battles of wit and vocabulary prowess.
+
+With an intuitive and user-friendly interface, Wordle: Multiplayer Edition provides an immersive gameplay experience that will keep players enthralled for hours. Test your word-finding skills and strategic thinking as you decipher the hidden word, letter by letter, within a limited number of attempts.
+
+The multiplayer mode takes the excitement to a whole new level, allowing you to compete against friends or family. Challenge your peers in real time, flex your linguistic muscles, and see who can unravel the mystery word first. 
 
 ### Menu
 
@@ -40,4 +43,4 @@ It supports single player as well as multi-player games.
 <img src="https://github.com/arxxv/Multi-Wordle/blob/main/screenshots/multi-player-wrong.jpg" height="500px"><img/>
 <img src="https://github.com/arxxv/Multi-Wordle/blob/main/screenshots/single-player-wrong-ii.jpg" height="500px"><img/>
 
-#### Built using React.js, Node.js, Socket.io, Redis
+#### Built with love ❤️
