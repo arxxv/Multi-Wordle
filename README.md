@@ -6,6 +6,8 @@ With an intuitive and user-friendly interface, Wordle: Multiplayer Edition provi
 
 The multiplayer mode takes the excitement to a whole new level, allowing you to compete against friends or family. Challenge your peers in real time, flex your linguistic muscles, and see who can unravel the mystery word first. 
 
+#### <p align="center">Built with love ❤️</p>
+
 ### Menu
 
 <img src="https://github.com/arxxv/Multi-Wordle/blob/main/screenshots/menu.png"><img/>
@@ -43,4 +45,4 @@ The multiplayer mode takes the excitement to a whole new level, allowing you to 
 <img src="https://github.com/arxxv/Multi-Wordle/blob/main/screenshots/multi-player-wrong.jpg" height="500px"><img/>
 <img src="https://github.com/arxxv/Multi-Wordle/blob/main/screenshots/single-player-wrong-ii.jpg" height="500px"><img/>
 
-#### Built with love ❤️
+
